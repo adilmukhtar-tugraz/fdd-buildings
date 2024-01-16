@@ -1,1 +1,1 @@
-# Ensembling one class classification and clustering based explainable methods for unsupervised fault detection and diagnosis in buildings 
+# Ensembling one class classification and clustering based explainable methods for unsupervised fault detection and fault diagnosis in buildings 
