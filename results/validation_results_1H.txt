@@ -1,0 +1,5 @@
+TP: 0
+TN: 7262
+FP: 33
+FN: 0
+{'Accuracy': 1.0, 'Precision': 0, 'Recall': 0.0, 'F1 Score': 0.0}
