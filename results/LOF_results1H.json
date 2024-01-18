@@ -1,122 +1,122 @@
 {
-    "coi_bias_-2_annual.csv": {
-        "Accuracy": 0.82,
-        "Precision": 1,
-        "Recall": 0.82,
-        "F1 Score": 0.9
-    },
-    "coi_bias_-4_annual.csv": {
-        "Accuracy": 0.74,
-        "Precision": 1,
-        "Recall": 0.74,
-        "F1 Score": 0.85
-    },
-    "coi_bias_2_annual.csv": {
-        "Accuracy": 0.86,
-        "Precision": 1,
-        "Recall": 0.86,
-        "F1 Score": 0.92
-    },
-    "coi_bias_4_annual.csv": {
-        "Accuracy": 0.82,
-        "Precision": 1,
-        "Recall": 0.82,
-        "F1 Score": 0.9
-    },
     "coi_leakage_010_annual.csv": {
-        "Accuracy": 0.85,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.85,
-        "F1 Score": 0.92
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "coi_leakage_025_annual.csv": {
-        "Accuracy": 0.85,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.85,
-        "F1 Score": 0.92
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "coi_leakage_040_annual.csv": {
-        "Accuracy": 0.85,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.85,
-        "F1 Score": 0.92
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "coi_leakage_050_annual.csv": {
-        "Accuracy": 0.85,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.85,
-        "F1 Score": 0.92
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "coi_stuck_010_annual.csv": {
-        "Accuracy": 0.42,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.42,
-        "F1 Score": 0.59
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "coi_stuck_025_annual.csv": {
-        "Accuracy": 0.53,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.53,
-        "F1 Score": 0.7
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "coi_stuck_050_annual.csv": {
-        "Accuracy": 0.81,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.81,
-        "F1 Score": 0.89
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "coi_stuck_075_annual.csv": {
-        "Accuracy": 0.81,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.81,
-        "F1 Score": 0.89
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "damper_stuck_010_annual.csv": {
-        "Accuracy": 0.89,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.89,
-        "F1 Score": 0.94
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "damper_stuck_025_annual.csv": {
-        "Accuracy": 0.87,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.87,
-        "F1 Score": 0.93
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "damper_stuck_075_annual.csv": {
-        "Accuracy": 0.65,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.65,
-        "F1 Score": 0.78
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "damper_stuck_100_annual_short.csv": {
-        "Accuracy": 0.83,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.83,
-        "F1 Score": 0.91
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "oa_bias_-2_annual.csv": {
-        "Accuracy": 0.86,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.86,
-        "F1 Score": 0.92
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "oa_bias_-4_annual.csv": {
-        "Accuracy": 0.86,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.86,
-        "F1 Score": 0.92
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "oa_bias_2_annual.csv": {
-        "Accuracy": 0.86,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.86,
-        "F1 Score": 0.92
+        "Recall": 1.0,
+        "F1 Score": 1.0
     },
     "oa_bias_4_annual.csv": {
-        "Accuracy": 0.86,
+        "Accuracy": 1.0,
         "Precision": 1,
-        "Recall": 0.86,
-        "F1 Score": 0.92
+        "Recall": 1.0,
+        "F1 Score": 1.0
+    },
+    "sa_bias_-2_annual.csv": {
+        "Accuracy": 1.0,
+        "Precision": 1,
+        "Recall": 1.0,
+        "F1 Score": 1.0
+    },
+    "sa_bias_-4_annual.csv": {
+        "Accuracy": 1.0,
+        "Precision": 1,
+        "Recall": 1.0,
+        "F1 Score": 1.0
+    },
+    "sa_bias_2_annual.csv": {
+        "Accuracy": 1.0,
+        "Precision": 1,
+        "Recall": 1.0,
+        "F1 Score": 1.0
+    },
+    "sa_bias_4_annual.csv": {
+        "Accuracy": 1.0,
+        "Precision": 1,
+        "Recall": 1.0,
+        "F1 Score": 1.0
     }
 }

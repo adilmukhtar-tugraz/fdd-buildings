@@ -1,5 +1,0 @@
-TP: 0
-TN: 87000
-FP: 540
-FN: 0
-{'Accuracy': 0.99, 'Precision': 0, 'Recall': 0.0, 'F1 Score': 0.0}
